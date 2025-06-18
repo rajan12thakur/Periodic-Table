@@ -1,0 +1,65 @@
+body {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #f8f8f8;
+  text-shadow: 1px 1px 4px #000;
+}
+
+.periodic-table {
+  display: grid;
+  grid-template-columns: repeat(18, 60px);
+  grid-auto-rows: 60px;
+  gap: 4px;
+  justify-content: center;
+}
+
+.element {
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  color: white;
+  text-align: center;
+}
+
+.element:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 8px rgba(255,255,255,0.4);
+  z-index: 2;
+}
+
+.symbol {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.name {
+  font-size: 12px;
+  margin-top: 2px;
+}
+
+.alkali-metal             { background-color: #f44336; }
+.alkaline-earth-metal     { background-color: #e91e63; }
+.lanthanide               { background-color: #9c27b0; }
+.actinide                 { background-color: #673ab7; }
+.transition-metal         { background-color: #3f51b5; }
+.post-transition-metal    { background-color: #2196f3; }
+.metalloid                { background-color: #03a9f4; }
+.nonmetal                 { background-color: #00bcd4; }
+.halogen                  { background-color: #009688; }
+.noble-gas                { background-color: #4caf50; }
+.unknown                  { background-color: #607d8b; }
