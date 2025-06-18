@@ -1,4 +1,4 @@
-# Periodic Table of Elements (HTML + CSS)
+#Periodic Table of Elements (HTML + CSS)
 
 This project displays a fully interactive and styled **Periodic Table of Elements** using pure HTML and CSS. It includes all **118 elements**, properly classified and color-coded with tooltips for atomic numbers.
 
