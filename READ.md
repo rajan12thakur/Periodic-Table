@@ -6,7 +6,7 @@ This project displays a fully interactive and styled **Periodic Table of Element
 
 📁File Structure
 
-```
+``
 /periodic-table
 │
 ├── index.html       # Main HTML file with elements laid out using CSS Grid
