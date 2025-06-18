@@ -4,7 +4,7 @@ This project displays a fully interactive and styled **Periodic Table of Element
 
 
 
-📁 File Structure
+📁File Structure
 
 ```
 /periodic-table
