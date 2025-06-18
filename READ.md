@@ -12,7 +12,7 @@ This project displays a fully interactive and styled **Periodic Table of Element
 ├── index.html       # Main HTML file with elements laid out using CSS Grid
 ├── styles.css       # All CSS styling including layout, hover effects, colors
 └── README.md        # Documentation (this file)
-`
+
 
 
 
