@@ -15,7 +15,6 @@ This project displays a fully interactive and styled **Periodic Table of Element
 
 
 
-
 ## 🎨 Features
 
 * ✅ Fully populated with **all 118 elements**
