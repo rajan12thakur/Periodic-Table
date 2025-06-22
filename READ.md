@@ -27,7 +27,7 @@ This project displays a fully interactive and styled **Periodic Table of Element
 * ✅ Hover interaction: **zoom effect with glow**
 * ✅ Tooltip on each element showing atomic number and name
 
--
+
 
 ## 📦 How to Run
 
