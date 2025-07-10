@@ -41,7 +41,7 @@ Features
 * Add filters for element types
 * Add search functionality
 
--
+
 
 ## 👨‍💻 Author
 
