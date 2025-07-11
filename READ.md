@@ -18,7 +18,7 @@ Features
 * ✅ Accurate layout and spacing (mimics real periodic table)
 * ✅ Group-wise color coding:
 
-  * Alkali metals: red
+Alkali metals: red
   * Alkaline earth metals: pink
   * Transition metals: blue
   * Lanthanides/Actinides: purple/violet
