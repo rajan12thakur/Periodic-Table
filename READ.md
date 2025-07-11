@@ -16,7 +16,7 @@ Features
 
  ✅ Fully populated with *all 118 elements**
  ✅ Accurate layout and spacing (mimics real periodic table)
-* ✅ Group-wise color coding:
+ ✅ Group-wise color coding:
 
 Alkali metals: red
   * Alkaline earth metals: pink
