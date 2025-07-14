@@ -22,7 +22,7 @@ Alkali metals: red
    Alkaline earth metals: pink
    Transition metals: blue
    Lanthanides/Actinides: purple/violet
-  * Metalloids, Halogens, Noble Gases: unique shades
+   Metalloids, Halogens, Noble Gases: unique shades
  ✅ Hover interaction: *zoom effect with glow**
  ✅ Tooltip on each element showing atomic number and name
 
