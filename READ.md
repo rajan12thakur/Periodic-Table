@@ -20,7 +20,7 @@ Features
 
 Alkali metals: red
    Alkaline earth metals: pink
-  * Transition metals: blue
+   Transition metals: blue
   * Lanthanides/Actinides: purple/violet
   * Metalloids, Halogens, Noble Gases: unique shades
  ✅ Hover interaction: *zoom effect with glow**
