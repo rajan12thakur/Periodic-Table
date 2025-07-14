@@ -14,7 +14,7 @@ File Structure
 
 Features
 
- ✅ Fully populated with *all 118 elements**
+ ✅ Fully populated with *all 118 elements*
  ✅ Accurate layout and spacing (mimics real periodic table)
  ✅ Group-wise color coding:
 
