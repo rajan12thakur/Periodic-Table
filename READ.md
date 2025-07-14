@@ -30,7 +30,7 @@ Alkali metals: red
 
  📦 How to Run
 
-1. *Download the project**
+1. Download the project**
 2. Open `index.html` in any modern browser (Chrome, Firefox, Edge)
 
 ---
