@@ -19,7 +19,7 @@ Features
  ✅ Group-wise color coding:
 
 Alkali metals: red
-  * Alkaline earth metals: pink
+   Alkaline earth metals: pink
   * Transition metals: blue
   * Lanthanides/Actinides: purple/violet
   * Metalloids, Halogens, Noble Gases: unique shades
