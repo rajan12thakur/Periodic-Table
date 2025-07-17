@@ -44,7 +44,7 @@ Alkali metals: red
 
 ## 👨‍💻 Author
 
-Created with 💡 by *Rajan Thakur** using only HTML and CSS.
+Created with 💡 by *Rajan Thakur**using only HTML and CSS.
 
 
 
