@@ -33,7 +33,7 @@ Alkali metals: red
 2. Open `index.html` in any modern browser (Chrome, Firefox, Edge)
 
 -
-# 🧩 Future Enhancements (Optional)
+#  Future Enhancements (Optional)
 
 * Add modal on click with full element data (e.g., atomic mass, configuration)
 * Add filters for element types
