@@ -9,7 +9,7 @@ File Structure
 /periodic-table
 │
 ├── index.html        Main HTML file with elements laid out using CSS Grid
-├── styles.css       # All CSS styling including layout, hover effects, colors
+├── styles.css        All CSS styling including layout, hover effects, colors
 └── README.md        # Documentation (this file)
 
 Features
