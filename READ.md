@@ -32,7 +32,7 @@ Alkali metals: red
 1. Download the project
 2. Open `index.html` in any modern browser (Chrome, Firefox, Edge)
 
--
+
 # Future Enhancements (Optional)
 
 * Add modal on click with full element data (e.g., atomic mass, configuration)
