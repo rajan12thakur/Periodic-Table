@@ -40,7 +40,6 @@ Alkali metals: red
  Add search functionality
 
 
-
 #Author
 
 Created with  by Rajan Thakur**using only HTML and CSS.
