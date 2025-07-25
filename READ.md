@@ -35,7 +35,7 @@ Alkali metals: red
 
  Future Enhancements (Optional)
 
-* Add modal on click with full element data (e.g., atomic mass, configuration)
+ Add modal on click with full element data (e.g., atomic mass, configuration)
 * Add filters for element types
  Add search functionality
 
