@@ -46,4 +46,4 @@ Created with  by Rajan Thakur**using only HTML and CSS.
 
 
 
-Feel free to use, modify, or extend this project for learning or educational purposes.
+Feel free to use, modify, or extend this project for learning or educational purposes
